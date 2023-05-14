@@ -54,7 +54,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - apps@penguinpowered.co.uk
+Penguin Powered Apps - apps@penguinpowered.co.uk
 
 Project Link: [https://github.com/PenguinPoweredApps/MyMileageExpenses](https://github.com/PenguinPoweredApps/MyMileageExpenses)
 
