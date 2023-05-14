@@ -36,7 +36,7 @@ To install the application, follow these steps:
 
 1. Clone the repo: `git clone https://github.com/PenguinPoweredApps/MyMileageExpenses.git`
 2. Run the application: `cd MyMileageExpenses && python gui.py`
-3. Create binaries for Microsoft Windows, Linux and MacOS: 'pyinstaller gui.spec'
+3. Create binaries for Microsoft Windows, Linux and MacOS: `pyinstaller gui.spec`
 
 ## Contributing
 
