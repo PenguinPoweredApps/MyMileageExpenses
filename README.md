@@ -29,6 +29,7 @@ My Mileage Expenses is a powerful application that helps you keep track of your 
 - Make sure you have a compatible device to run the application.
 - At least Python 3.10 or Later
 - Ensure you have a valid CSV file containing the required data.
+- You will also require a free Open Route Service API key from [https://openrouteservice.org/](https://openrouteservice.org/)
 
 ## Installation
 
